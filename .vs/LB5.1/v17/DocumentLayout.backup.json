@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043B\u0430\u0431\u0438 \u0437 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u0457 \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\LB5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9E696F95-E9FA-481A-A4FA-257413A52FC6}|UnitTest5.1\\UnitTest5.1.vcxproj|D:\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043B\u0430\u0431\u0438 \u0437 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u0457 \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\LB5.1\\UnitTest5.1\\UnitTest5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E696F95-E9FA-481A-A4FA-257413A52FC6}|UnitTest5.1\\UnitTest5.1.vcxproj|solutionrelative:UnitTest5.1\\UnitTest5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1AEC8148-4F3F-4DEF-96CC-84D7B8631786}|LB5.1\\LB5.1.vcxproj|D:\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043B\u0430\u0431\u0438 \u0437 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u0457 \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\LB5.1\\LB5.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1AEC8148-4F3F-4DEF-96CC-84D7B8631786}|LB5.1\\LB5.1.vcxproj|solutionrelative:LB5.1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest5.1.cpp",
+              "DocumentMoniker": "D:\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043B\u0430\u0431\u0438 \u0437 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u0457 \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\LB5.1\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.1\\UnitTest5.1.cpp",
+              "ToolTip": "D:\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043B\u0430\u0431\u0438 \u0437 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u0457 \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\LB5.1\\UnitTest5.1\\UnitTest5.1.cpp",
+              "RelativeToolTip": "UnitTest5.1\\UnitTest5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T19:29:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043B\u0430\u0431\u0438 \u0437 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u0457 \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\LB5.1\\LB5.1\\main.cpp",
               "RelativeDocumentMoniker": "LB5.1\\main.cpp",
               "ToolTip": "D:\\\u0443\u043D\u0456\u0432\u0435\u0440\\\u043B\u0430\u0431\u0438 \u0437 \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u0457 \u0456 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u0443\u0432\u0430\u043D\u043D\u044F\\LB5.1\\LB5.1\\main.cpp",
               "RelativeToolTip": "LB5.1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-30T14:14:48.56Z",
               "EditorCaption": ""
